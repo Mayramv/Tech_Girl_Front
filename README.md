@@ -1,5 +1,5 @@
 # Tech_Girl_Front
-![image](https://github.com/Mayramv/Tech_Girl_Front/assets/106702919/4c7ed1bc-9681-4bd8-acfc-5761d16ee4fb)
+![image](https://github.com/Mayramv/Tech_Girl_Front/assets/106702919/6170e2f7-64f3-4c94-bd74-bbc810fc980a)
 
 ## Descrição do Projeto
 Esse proejto foi desenvolvido no curso de BackEnd da Programaria. Se trata de uma pagina web falando de Mulheres que fizeram
