@@ -9,10 +9,10 @@ história na tecnologia
 
 ## ✔️Técnicas e tecnologias utilizadas
 
-CSS
-HTML
-JAVASCRIPT
-Nodejs
-MongoDB
-Vercel
-Insomnia
+* CSS
+* HTML
+* JAVASCRIPT
+* Nodejs
+* MongoDB
+* Vercel
+* Insomnia
